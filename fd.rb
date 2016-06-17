@@ -10,3 +10,7 @@ end
 def decode(text)
     return text.tr(ENCODING, ALPHABET)
 end
+
+puts "hello"
+
+end
